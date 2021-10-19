@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "1",
+        "name": "HEALTH CARE",
+        "short_des": "CHALLENGES TO PROV_idE SERVICES TO CHRONICALLY ILL PATIENTS",
+        "description": "Here we prov_ide the best service to the ill patient. They are served properly. We properly take care about their health.",
+        "imageURL": "https://images.unsplash.com/photo-1584432810601-6c7f27d2362b?ixlib=rb-1.2.1&ix_id=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aGVhbHRoJTIwY2FyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "_id": "2",
+        "name": "QUALIFIED DOCTORS",
+        "short_des": "THERE ARE QUALIFIED DOCTORS IN OUR HOSPITAL",
+        "description": "There are highly graduated qualified doctors. They will check your body problem and give you proper treatment and medicines.",
+        "imageURL": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fHF1YWxpZmllZCUyMGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "_id": "3",
+        "name": "OUR PATIENT SERVICES",
+        "short_des": "THESE SERVICES OUR PATIENT GET FROM US",
+        "description": "We always care about aour patient. We give a specific amount of discount to our patient. And also the medicines can be found in the pharmacy.",
+        "imageURL": " https://images.unsplash.com/photo-1587745416684-47953f16f02f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGF0aWVudCUyMHNlcnZpY2VzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "_id": "4",
+        "name": "EMERGENCY UNIT",
+        "short_des": "FOR EMERGENCY SITUATION",
+        "description": "We have this unit for emergency situation.This unit is opened 24/7. Our duty doctors are always for your help.",
+        "imageURL": "https://images.unsplash.com/photo-1517120026326-d87759a7b63b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZW1lcmdlbmN5JTIwdW5pdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "_id": "5",
+        "name": "LAB TEST REPORTS",
+        "short_des": "FOR TEST AND THE REPORTS",
+        "description": "If you need to do test we have this service for you in our hospital. We give the report at 1 day.",
+        "imageURL": "https://images.unsplash.com/photo-1582719471327-5bd41fcf7f7f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fGxhYiUyMHRlc3QlMjByZXBvcnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "_id": "6",
+        "name": "VISITING HOURS",
+        "short_des": "OUR DOCTOR WILL VISIT YOU AND CHECK YOUR SITUATION",
+        "description": "At some specific times Our doctors will visit you and suggest you what to do, what medicines you need now.",
+        "imageURL": "https://images.unsplash.com/photo-1576089275776-b6cd5deabdad?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGhvc3BpdGFsJTIwdmlzaXRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+]

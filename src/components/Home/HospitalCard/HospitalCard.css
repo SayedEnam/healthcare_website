@@ -1,0 +1,10 @@
+.hospitalCard:hover img{
+    overflow: hidden;
+    transform: scale(1.2);
+    transition: transform 1s;
+}
+.btn-btn{
+    background-color: #304770;
+   color: white;
+   padding: 5px;
+}
