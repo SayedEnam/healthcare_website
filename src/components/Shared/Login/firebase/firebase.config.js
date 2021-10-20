@@ -1,9 +1,10 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyDZJd5N37s2TAZizQEU7V1Kqr7TzgWj0i8",
-  authDomain: "carezone-hospital.firebaseapp.com",
-  projectId: "carezone-hospital",
-  storageBucket: "carezone-hospital.appspot.com",
-  messagingSenderId: "669549327107",
-  appId: "1:669549327107:web:801c4236cb446799fcef36"
-};
+  const firebaseConfig = {
+    apiKey: "AIzaSyDvgwTTiwYQ8972Yzf_1QM60PfZC5ogvXA",
+    authDomain: "my-project-3f974.firebaseapp.com",
+    projectId: "my-project-3f974",
+    storageBucket: "my-project-3f974.appspot.com",
+    messagingSenderId: "479430466716",
+    appId: "1:479430466716:web:f2e6164a6e2f9c02bee159"
+  };
+
   export default firebaseConfig;
