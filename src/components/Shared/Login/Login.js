@@ -105,9 +105,10 @@ const Login = () => {
     }
 
     return (
-        <div className="mx-5">
+        <div className="container">
+        <div className="col-md-5 m-auto">
             <form onSubmit={handleRegistration}>
-                <h3 className="text-primary">Please {isLogin ? 'Login' : 'Register'}</h3>
+                <h3 className="text-primary mb-5 mt-5">Please {isLogin ? 'Login' : 'Register'}</h3>
                 {!isLogin && <div className="row mb-3">
                     <label htmlFor="inputName" className="col-sm-2 col-form-label">Name</label>
                     <div className="col-sm-10">
@@ -147,6 +148,7 @@ const Login = () => {
             <hr />
             <br />
             <button className="btn btn-danger" onClick={handleGoogleSignIn}>Google Sign In</button>
+        </div>
         </div>
     );
 }
